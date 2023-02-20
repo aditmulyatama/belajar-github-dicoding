@@ -2,6 +2,3 @@ ini branch development
 -
 -
 penambahan branch development oleh contributor
--
--
-penambahan text dari repo fork
